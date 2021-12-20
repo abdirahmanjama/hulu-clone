@@ -10,6 +10,12 @@ export default function Home() {
       </Head>
 
      <h1> lets build Hulu</h1>
+
+     {/* Header contains links and logo */}
+     {/* Nav component -> contains movie genres*/}
+    {/* Results component -> consists of individual results*/} 
+   
+
     </div>
   )
 }
