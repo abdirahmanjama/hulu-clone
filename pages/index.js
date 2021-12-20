@@ -10,8 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-     <h1> lets build Hulu</h1>
-
+    
      {/* Header contains links and logo */}
      <Header/>
      {/* Nav component -> contains movie genres*/}
