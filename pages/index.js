@@ -10,10 +10,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-    
+
      {/* Header contains links and logo */}
      <Header/>
      {/* Nav component -> contains movie genres*/}
+     <Navigation/>
     {/* Results component -> consists of individual results*/} 
    
 
